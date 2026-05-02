@@ -40,7 +40,8 @@ Vérification que la VM accède bien à Internet via l'interface NAT.
 ```bash
 ping -c 2 8.8.8.8
 ```
-<img width="1600" height="586" alt="ping 8 8 8 8 et ping google com" src="https://github.com/user-attachments/assets/85c42791-d007-4b87-b7c4-1bdeef86d19d" />
+<img width="958" height="138" alt="Capture d’écran 2026-05-02 170541" src="https://github.com/user-attachments/assets/37a25b6b-1f06-40a5-ac0f-56368db55a5e" />
+
 
 
 ---
